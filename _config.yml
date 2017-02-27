@@ -14,15 +14,15 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: NY Dogs.com 
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A tribute and resource to all the awesome dogs and dog people in NYC and surrounding areas
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
+#navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
